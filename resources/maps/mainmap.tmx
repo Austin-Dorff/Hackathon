@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="100" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="gamebaseImage" tilewidth="32" tileheight="32">
+  <image source="../../../../dsc00753_1024.jpg" width="1024" height="683"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt1rttwzAUBVA7bUZInWFSeogMEsBFNkjrUbxDZsgGGSBVAMPQh6T4lQ+BU9imxMd3JVmn4+FwAoCMfiuZWfu6JrbWifmXWxM1XJbmTP2+ds7eMwlYt1oesf1tkcfUnte+Cz028Dq4ptYWUPfl5vNiP5fyKNnz3vLIMT8kj4Dzy0Me8pCHPBrmcW8PefT4frXW51p5LHnkPFLvoxHzKNnz1DxSvotZa0ve8pDH3vPYcn55yGOUPJaeOSHzMz6vonq5lMcSeTxOHgAAAAAAACN4OUBZr0/rWte4dyEZjJ7JCPtJyaFV/Slr976nrVn0VF/uPbbMIqTenmuLqXWkPKbqbV1PSh5zda8dc+5gnyNIzeK8Uet91+5tiTxuj9uax56zKf0/PHVczjz2mkuNLEvksDWfmjXVuI5a3Av35t4BRlL63mmRQc+ZjFLnnjOJed9pWed3BjF7LXX+3LX+z83Rn70olXHp62ePavRLHnl79XwMl7re3PyYtUNraGWp5lz9z92n2uuVroH21wHpubSuCWDNGwAAAA/pHWAQn8CsHwAAAAAAYLMvuvLxBADxDMMwDMMYf/wB9sDdJg==
+  </data>
+ </layer>
+</map>

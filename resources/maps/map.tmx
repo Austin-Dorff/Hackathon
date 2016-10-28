@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tilea4" tilewidth="16" tileheight="16">
+  <image source="tilea4.png" width="512" height="480"/>
+  <tile id="0">
+   <properties>
+    <property name="Blocked" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Terrain" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3WQQ6FIAwEUDy3t/YEf2saKG2dAh9mMQujBh9I6VVKuTbJLfK8Iu9l5gmGDjqsDuseuP/AUfteOuhYyVELHWc6ZL31Omp1e4RJO+eiDnlNB8YROc9rDss/huzBPfNmdVjXRnvPEzp8jtb6Ix2tMVAObd5QDm0MOuhYwRGp88jzA7HPe33izNCxVqKOEf+8570vjuwa5KmPdNChjbmDQ9YgOs50jDg7sh3Z8aw3HWMcvb4D4UDu8d480bGeI6vfzXBYTL3s7LA+TwfevLNj9ved5mglo5edlR+LI7DnECcAAA==
+  </data>
+ </layer>
+</map>
